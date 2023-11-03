@@ -84,6 +84,11 @@ nav ul li a {
   margin-bottom: 10px;
 }
 
+.seccion-1 .greeting{
+  color: blue;
+  border: solid 2px black;
+}
+
 .padre {
   display: flex;
   justify-content: center;
