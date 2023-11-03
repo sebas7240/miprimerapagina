@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+}
+header {
+  display: flex;
+  justify-content: end;
+}
+
+header ul li {
+  display: inline;
+}
